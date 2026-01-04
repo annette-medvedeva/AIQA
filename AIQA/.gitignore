@@ -1,0 +1,65 @@
+# Playwright
+bin/
+obj/
+*.log
+test-results/
+allure-results/
+logs/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# NuGet Packages
+*.nupkg
+packages/
+.nuget/
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Screenshots
+screenshots/
+videos/
+
+# Environment files
+.env
+.env.local
+.env.staging
+.env.production
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
